@@ -1,0 +1,4 @@
+# Linear-Regression
+Regression analysis is a powerful statistical method that allows you to examine the relationship between two or more variables of interest. Regression analysis is a reliable method of identifying which variables have impact on a topic of interest. The process of performing a regression allows you to confidently determine which factors matter most, which factors can be ignored, and how these factors influence each other.
+It is the study of linear, additive relationships between variables. The linear regression model has a dependent variable that is a continuous variable, while the independent variables can take any form (continuous, discrete, or indicator variables).
+For detailed explanation, kindly refer "https://medium.com/@rohithramesh1991/linear-regression-225904ee7bcc"
